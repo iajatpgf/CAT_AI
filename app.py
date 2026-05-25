@@ -883,7 +883,7 @@ st.markdown("""
 # ====================== 侧边栏 ======================
 with st.sidebar:
     st.markdown('<div class="main-header">🔋 锂电研发智能Agent</div>', unsafe_allow_html=True)
-    st.markdown("**OpenClaw风格 · 实时思考 · 真实来源 · AI判断**")
+    st.markdown("**实时思考 · 真实来源 · AI判断**")
     st.divider()
     
     page = st.radio(
